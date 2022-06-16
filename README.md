@@ -3,7 +3,7 @@
 Brian Tan  
 Joseph Meikle  
 Matthew Riopelle  
-Ashton Morgan  
+Ashton J Morgan 
 Tarik Campbell  
 
 ### Edit README.md on main branch to create merge conflict
